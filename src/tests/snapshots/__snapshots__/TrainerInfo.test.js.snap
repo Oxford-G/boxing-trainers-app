@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TrainerInfo should render propertly 1`] = `
+<a
+  className="trainerInfo dFlex justifyContentCenter"
+  href="/Trainer_profile"
+  onClick={[Function]}
+>
+  <figure>
+    <img
+      alt="Juan"
+      className="trainerImg"
+      src="https://www.industrialempathy.com/img/remote/ZiClJf-1920w.jpg"
+    />
+    <figcaption>
+      Juan
+    </figcaption>
+  </figure>
+</a>
+`;

@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LeftMenu should render propertly 1`] = `
+<aside
+  className="leftMenu"
+>
+  <ul
+    className="leftList mt5 ml25p"
+  >
+    <li>
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        Home
+      </a>
+    </li>
+    <li>
+      <a
+        href="/how_to"
+        onClick={[Function]}
+      >
+        How to
+      </a>
+    </li>
+    <li>
+      <a
+        href="/trainers"
+        onClick={[Function]}
+      >
+        Trainers
+      </a>
+    </li>
+  </ul>
+</aside>
+`;

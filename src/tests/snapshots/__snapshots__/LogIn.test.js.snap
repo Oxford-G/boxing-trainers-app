@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LogIn should render propertly 1`] = `
+<div
+  className="login dFlex flexColumn justifyContentCenter"
+>
+  <div
+    className="Toastify"
+  />
+  <div
+    className="sessionTitle"
+  >
+    Log In
+  </div>
+  <form
+    className="mt2 form dFlex flexColumn justifyContentCenter"
+  >
+    <input
+      id="email"
+      name="email"
+      onChange={[Function]}
+      placeholder="Email"
+      type="email"
+    />
+    <br />
+    <input
+      id="password"
+      name="password"
+      onChange={[Function]}
+      placeholder="Password"
+      type="password"
+    />
+    <br />
+    <button
+      className="formBtn"
+      onClick={[Function]}
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
